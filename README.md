@@ -2,13 +2,13 @@
 
 ### About Me
 - 🔭 I’m currently working to get into *DevOps*
-- 🌱 I’m currently learning *Python*
+- 🌱 I’m currently learning *Git/Github*
 - 🧠 Looking to find a study group or mentor!
 - ⚡️Fun Fact: Professional air drummer (can't play drums in my apartment 😝)
 
 ### 📚 Skills To Learn
-- Python (In Progress)
-- Git/Github
+- Git/Github (In Progress)
+- Python
 - Bash
 - Linux OS
 
