@@ -1,4 +1,4 @@
-# Hello, I'm Josh! (Currently Under Construction 🚧)
+# Hello, I'm Josh!
 
 ### About Me
 - 🔭 I’m currently working to get into *DevOps*
