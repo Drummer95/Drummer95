@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Josh!
 
-<!--
-**Drummer95/Drummer95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔭 I’m currently working to get into *DevOps*
+- 🌱 I’m currently learning *Git/Github*
+- 🧠 Looking to find a study group or mentor!
+- ⚡️Fun Fact: Professional air drummer (can't play drums in my apartment 😝)
 
-Here are some ideas to get you started:
+### 📚 Skills To Learn
+- Git/Github (In Progress)
+- Python
+- Bash
+- Linux OS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me
+- [BlueSky](https://bsky.app/profile/beardeddrummer.bsky.social)
